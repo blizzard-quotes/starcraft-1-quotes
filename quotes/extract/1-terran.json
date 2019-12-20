@@ -1,0 +1,2642 @@
+[
+  {
+    "value": "   WHAT?!\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Well?!\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I haven't got all day...\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Make up your mind...\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   'Bout time.\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Decisive action.\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Should work...\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Alright then...\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Been a General for fifteen years...\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Now I'm taking orders from a pup...\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   This Korhal outfit's a mess.\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Y'all need some good ol' fashioned discipline.\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   ...That's what you need.\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Edmund_Duke",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   How can I be of service?\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What do you need?\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'm here.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Yes captain?\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'll take care of it.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Right away.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   You got it.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Of course.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Is there a problem?\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   (laughs) I like your style, friend.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   But I think you're getting a little too familiar.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I don't believe we've met.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I am Duran. ... Who are you?\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I told you my name. It's Duran, Duran!\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What's so funny?\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Please, please! Tell me now. (strange blunt hammering noises in the background)\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Is there something I should know?\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Samir_Duran",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Lieutenant Kerrigan reporting.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What now...\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'm waitin' on you!\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'm ready.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I gotcha.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Thinkin' the same thing.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   It'd be a pleasure.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I read ya. (chuckle)\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Easily amused, huh?\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Doesn't take a telepath to know what you're thinkin'.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   You get off on annoying people, don't you?\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   You may have time to play games...\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   ...but I've got a job to do.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Terran",
+    "unit": "Sarah_Kerrigan",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Raynor here.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   This is Jimmy.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Aaany time you're ready.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Go ahead commander.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Sounds fun.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Riiight on.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   This should be good.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Oh yeeaaahh...\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Hey! Quit it!\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What's your problem, man?\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Look, commander, do you mind?\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I knew I should've stayed in bed this morning.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Terran",
+    "unit": "Jim_Raynor",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Battlecruiser operational.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   All crews reporting.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Receiving transmission.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Good day, commander.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hailing frequencies open.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Make it happen.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Set a course.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Take it slow.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Engage!\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Identify yourself.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Shields up, weapons online.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   ...Not equipped with shields? ...Well then, buckle up!\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We are getting way behind schedule.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I really have to go, Number One.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/2/26/InterYamCannon_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605041907\" \t alt=\"InterYamCannon Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterYamCannon_Terran_SC1.PNG\" \tdata-image-name=\"InterYamCannon Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Yamato Gun 1.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/2/26/InterYamCannon_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605041907\" \t alt=\"InterYamCannon Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterYamCannon_Terran_SC1.PNG\" \tdata-image-name=\"InterYamCannon Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Yamato Gun 2.\n",
+    "faction": "Terran",
+    "unit": "Battlecruiser",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hey, how'd I get here? (Civilians cannot be built in the game engine without modifications.)\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Hey there!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   How y'all doing?\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   What's up?\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Howdy!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   I'm goin'!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   No sweat!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Yep!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   All right!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Sure thing!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   I wanna be all I can be...\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   I'll tell you what, I think I'll join up!!\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   I'm a little claustrophobic though...\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Hope they don't put me in any tight spaces.\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Ah, what the hell. I need that college money.\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Civilian",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
+  },
+  {
+    "value": "   Can I take your order?\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Go ahead HQ.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm listenin'.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Destination?\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Input coordinates.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   In the pipe, five by five.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hang on, we're in for some chop.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   In transit HQ.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Buckle up.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Strap yourselves in, boys.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I copy that.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   When removing your overhead luggage, please be careful.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   In case of a water landing, you may be used as a flotation device.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   To hurl chunks, please use the vomit bag in front of you.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Please keep your arms and legs inside until this ride comes to a full and complete stop.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Dropship",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Need a light?\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Fire it up!\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yes...\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You got my attention.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Wanna turn up the heat?\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Naturally.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Slammin'!\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You got it.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Let's burn!\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Is something burning?\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (short fire burst) Haha, That's what I thought.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I love the smell of napalm.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Nothin' like a good smoke.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You tryin' to get invited to my next barbecue?\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Got any questions about propane?\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Or... propane accessories?\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 3.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Fire 1.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Fire 2.\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/98/ResearchStimPack_Terran_SC1.png/revision/latest/scale-to-width-down/20?cb=20080313020107\" \t alt=\"ResearchStimPack Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"ResearchStimPack_Terran_SC1.png\" \tdata-image-name=\"ResearchStimPack Terran SC1.png\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> (injection sound) Ah! That's the stuff!\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/98/ResearchStimPack_Terran_SC1.png/revision/latest/scale-to-width-down/20?cb=20080313020107\" \t alt=\"ResearchStimPack Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"ResearchStimPack_Terran_SC1.png\" \tdata-image-name=\"ResearchStimPack Terran SC1.png\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> (injection sound) Ah yeah!\n",
+    "faction": "Terran",
+    "unit": "Firebat",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Somebody call for an exterminator?\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ghost reportin'.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm here.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Finally.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Call the shot.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I hear that.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm gone.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Never know what hit 'em.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm all over it.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": " Play  You got it.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You called down the thunder...\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   ...now reap the whirlwind!\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (breathing faster) Keep it up! I dare ya!\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm about t' overload my aggression inhibitors!\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/2/2a/InterNuke_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605035250\" \t alt=\"InterNuke Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterNuke_Terran_SC1.PNG\" \tdata-image-name=\"InterNuke Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Nuclear Strike.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/4/4a/InterLock_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605035250\" \t alt=\"InterLock Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterLock_Terran_SC1.PNG\" \tdata-image-name=\"InterLock Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Lockdown.\n",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Goliath online.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Go ahead, TACCOM.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Comm-link online.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (beebeep) Channel open.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Systems functional.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Acknowledged H.Q.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (high beep) Nav-comm locked.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirmed.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Target designated.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   MilSpec E.D.2.0.9. on.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (low triple beep) Checklist protocol, initiated.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Running level one diagnostic.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (strange beep) U.S.D.A. selected.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (strange beep) F.D.I.C. approved.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (beebeebeep) Checklist completed... S.O.B.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Goliath",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You wanna piece of me, boy?\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Commander?\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Standin' by.\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Jacked up and good to go.\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Gimme something to shoot!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Go go go!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Let's move!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Outstanding!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Rock & Roll! (Military slang for firing a weapon fully-automatically)\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We gotta move!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Are you gonna give me orders?\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Oh my god, he's whacked!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I vote we frag this commander.\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   How do I get out of this chickensh(bleep) outfit?\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You wanna piece of me, boy?\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   If it weren't for these damn neural implants, he'd be a smoking crater by now!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/98/ResearchStimPack_Terran_SC1.png/revision/latest/scale-to-width-down/20?cb=20080313020107\" \t alt=\"ResearchStimPack Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"ResearchStimPack_Terran_SC1.png\" \tdata-image-name=\"ResearchStimPack Terran SC1.png\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> (injection sound) Ah! That's the stuff!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/98/ResearchStimPack_Terran_SC1.png/revision/latest/scale-to-width-down/20?cb=20080313020107\" \t alt=\"ResearchStimPack Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"ResearchStimPack_Terran_SC1.png\" \tdata-image-name=\"ResearchStimPack Terran SC1.png\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> (injection sound) Ah yeah!\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Prepped and ready.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Need medical attention?\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Did someone page me?\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   State the nature of your medical emergency.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (flirting voice) Where does it hurt?\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Right away.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Stat!\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm on the job!\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   On my way!\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (flirting voice) I've already checked you out commander.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You want another physical?\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Turn your head and cough.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ready for your sponge-bath?\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   His EKG is flatlining! Give me a defib stat!\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   CLEAR! (zap!)\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   He's dead, Jim.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/f/f5/InterHeal_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100604235559\" \t alt=\"InterHeal Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterHeal_Terran_SC1.PNG\" \tdata-image-name=\"InterHeal Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Heal 1.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/f/f5/InterHeal_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100604235559\" \t alt=\"InterHeal Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterHeal_Terran_SC1.PNG\" \tdata-image-name=\"InterHeal Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Heal 2.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/a/a0/InterOpFlare_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100604235559\" \t alt=\"InterOpFlare Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterOpFlare_Terran_SC1.PNG\" \tdata-image-name=\"InterOpFlare Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Optic Flare 1.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/a/a0/InterOpFlare_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100604235559\" \t alt=\"InterOpFlare Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterOpFlare_Terran_SC1.PNG\" \tdata-image-name=\"InterOpFlare Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Optic Flare 2.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/5/5e/InterRestore_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100604235603\" \t alt=\"InterRestore Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterRestore_Terran_SC1.PNG\" \tdata-image-name=\"InterRestore Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Restoration 1.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/5/5e/InterRestore_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100604235603\" \t alt=\"InterRestore Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterRestore_Terran_SC1.PNG\" \tdata-image-name=\"InterRestore Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Restoration 2.\n",
+    "faction": "Terran",
+    "unit": "Medic",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (bling) Explorer reporting.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ah, greetings command.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Transmit orders.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (bling) Receiving, headquarters.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (bling) We have you on visual.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Let's roll!\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Excellent!\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Commencing!\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Affirmative sir!\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I like the cut of your jib.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   E equals MC... D'oh, let me get my notepad.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hmm... Fusion eh? I'll have to remember that.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (monkeys screeching in background) What - Who set all these lab monkeys free?! (possibly a reference to Burns' attempt at mutant flying monkeys used to stop employees from using room service)\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (monkeys still screeching, hiss starts) (voice rises in pitch) I think we may have a gas leak!\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (alarm blaring) Do any of you fools know how to shut off this infernal contraption?\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (alarm noise dying out) Ah... (breathing heavily) The ship... out of danger?\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/a/a5/InterDefMatrixTerran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605041910\" \t alt=\"InterDefMatrixTerran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterDefMatrixTerran_SC1.PNG\" \tdata-image-name=\"InterDefMatrixTerran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Defensive Matrix.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/b/bc/InterEMPShock_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605041911\" \t alt=\"InterEMPShock Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterEMPShock_Terran_SC1.PNG\" \tdata-image-name=\"InterEMPShock Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> EMP Shockwave.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/9c/InterIrrad_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605041911\" \t alt=\"InterIrrad Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterIrrad_Terran_SC1.PNG\" \tdata-image-name=\"InterIrrad Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Irradiate.\n",
+    "faction": "Terran",
+    "unit": "Science_Vessel",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   SCV good to go, sir.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yes sir?\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Orders, Cap'n?\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I read you.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Reportin' for duty.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Affirmative.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Roger that.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Right away sir.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Orders received.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Come again, Cap'n?\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm not readin' you clearly.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You ain't from around here, are you?\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I can't believe they put me in one of these things!\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   And now I gotta put up with this too?\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I told 'em I was claustrophobic, I gotta get outta here!\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm locked in here tighter than a frog's butt in a watermelon seed fight.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I can't build it. Somethin's in the way.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I can't build there.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Job's finished.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Mine 1.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Mine 2.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repair 1.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repair 2.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repair 3.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repair 4.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repair 5.\n",
+    "faction": "Terran",
+    "unit": "SCV",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ready to roll out!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yes sir?!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Destination?!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I-dentify target!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Orders, SIR!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Move it!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Pro-ceedin'!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   De-lighted to, SIR!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ab-so-lutely!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (hums Ride of the Valkyries)\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm about to drop the hammer...\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   ...and dispense some indiscriminate justice!\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   What IS your major malfunction?\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/2/23/InterSiegeMode_Terran_SC1.png/revision/latest/scale-to-width-down/20?cb=20100604235713\" \t alt=\"InterSiegeMode Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterSiegeMode_Terran_SC1.png\" \tdata-image-name=\"InterSiegeMode Terran SC1.png\" \t \t width=\"20\"  \t height=\"19\"  \t \t \t \t> Siege Mode 1.\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/2/23/InterSiegeMode_Terran_SC1.png/revision/latest/scale-to-width-down/20?cb=20100604235713\" \t alt=\"InterSiegeMode Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterSiegeMode_Terran_SC1.png\" \tdata-image-name=\"InterSiegeMode Terran SC1.png\" \t \t width=\"20\"  \t height=\"19\"  \t \t \t \t> Siege Mode 2.\n",
+    "faction": "Terran",
+    "unit": "Siege_tank",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Valkyrie, prepared.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Need something destroyed?\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I am eager to help.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Don't keep me waiting.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Achtung!\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Of course, mein Herr!\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Perfect!\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   It's show time!\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Jawohl!\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Achtung!\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   This is very interesting... But stupid.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I have ways of blowing things up...\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You're being very naughty.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Who's your mommy?\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Blucher!\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (horse whines)\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit.\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Afterburners on. (unused)\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Afterburners off. (unused)\n",
+    "faction": "Terran",
+    "unit": "Valkyrie",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (Bike engine starts up) Alright! Bring it on!\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Whadda you want?!\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yeah?\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I read ya... Sir...\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Somethin' on yo' mind?\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yeah, I'm goin'!\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I dig.\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   No problem.\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Oh... Is that it?\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Somethin' you wanted?!\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I don't have time to f(bleep)k around!\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You keep pushin' me boy...\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   ...and I'll scrap YOU along with the aliens!\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": " Play  What the hell do you want?\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/e/ee/InterSpiMine_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605041906\" \t alt=\"InterSpiMine Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterSpiMine_Terran_SC1.PNG\" \tdata-image-name=\"InterSpiMine Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Spider Mine 1.\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/e/ee/InterSpiMine_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605041906\" \t alt=\"InterSpiMine Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterSpiMine_Terran_SC1.PNG\" \tdata-image-name=\"InterSpiMine Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Spider Mine 2.\n",
+    "faction": "Terran",
+    "unit": "Vulture",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Wraith awaiting launch orders.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Go ahead command.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Transmit coordinates.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Standing by.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Reporting in.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Coordinates received.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack formation.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Roger.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Vector, locked in.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Last transmission... breakin' up... come back.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm just curious, why am I so good?\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I gotta get me one of these.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You know who the best star fighter in the fleet is?\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yours truly.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Everybody's gotta die sometime, Red.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I am invincible, that's right.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/b/b0/InterCloak_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605033939\" \t alt=\"InterCloak Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterCloak_Terran_SC1.PNG\" \tdata-image-name=\"InterCloak Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Cloaking Field 1.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/b/b0/InterCloak_Terran_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605033939\" \t alt=\"InterCloak Terran SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"InterCloak_Terran_SC1.PNG\" \tdata-image-name=\"InterCloak Terran SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Cloaking Field 2.\n",
+    "faction": "Terran",
+    "unit": "Wraith",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  }
+]

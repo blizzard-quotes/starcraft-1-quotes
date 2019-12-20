@@ -1,0 +1,31 @@
+{
+  "name": "@blizzard-quotes/starcraft-1-quotes",
+  "version": "1.0.0",
+  "description": "Starcraft 1 quotes json wrapper. Also contains scripts to extract and transform Starcraft 1 quotes.",
+  "keywords": [
+    "starcraft",
+    "sc",
+    "quotes"
+  ],
+  "homepage": "https://github.com/blizzard-quotes/starcraft-1-quotes#readme",
+  "bugs": {
+    "url": "https://github.com/blizzard-quotes/starcraft-1-quotes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blizzard-quotes/starcraft-1-quotes.git"
+  },
+  "license": "MIT",
+  "author": "panebianco",
+  "main": "index.js",
+  "scripts": {
+    "extract": "node ./src/extract.js",
+    "transform": "node ./src/transform.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "uuid": "^3.3.3"
+  }
+}

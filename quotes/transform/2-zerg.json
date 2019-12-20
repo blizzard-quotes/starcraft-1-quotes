@@ -1,0 +1,380 @@
+[
+  {
+    "value": "How can I be of service?",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f09e5c80-249e-5098-8b63-1110ec5246d8"
+  },
+  {
+    "value": "What do you need?",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f20e0948-605c-55dd-ae26-fa34881e39d7"
+  },
+  {
+    "value": "I'm here.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f6aff878-87e8-5bde-bf8e-93afc0049afa"
+  },
+  {
+    "value": "Cerebrate?",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "35e505ef-b793-5c49-b5aa-1ccd699ed772"
+  },
+  {
+    "value": "I'll take care of it.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "e42b60be-941e-5519-9624-c4dc77a59069"
+  },
+  {
+    "value": "You got it.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "176dd280-bc8b-5f19-a334-588d48f959b5"
+  },
+  {
+    "value": "Right away.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "dab5c0de-0af1-51f5-8666-28e19dc87873"
+  },
+  {
+    "value": "Of course.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "e90c677a-0d71-567d-80f3-1ea5edeba8d9"
+  },
+  {
+    "value": "Is there a problem?",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ca20c1d3-2af4-5f53-b215-353d95d474c7"
+  },
+  {
+    "value": "I like your style, friend.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "53f9babe-2eaf-58dd-a339-8af29bcf492e"
+  },
+  {
+    "value": "But I think you're getting a little too familiar.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "97fa34b7-4c97-51a8-aa3e-47af6630fa77"
+  },
+  {
+    "value": "I don't believe we've met.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5c1658fa-cdb8-5a30-89f6-4cd08c345fe2"
+  },
+  {
+    "value": "I am Duran. ... Who are you?",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "59db0c5a-4c9e-598e-afd1-c79a574bbf41"
+  },
+  {
+    "value": "I told you my name. It's Duran, Duran!",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "44e03ee9-8d55-53df-bafe-cbeac0cfcb0a"
+  },
+  {
+    "value": "What's so funny?",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ed43d256-aa55-5401-8798-2922e7282075"
+  },
+  {
+    "value": "Please, please! Tell me now.",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5cc1194b-b20a-58dd-9e72-eab725d78d81"
+  },
+  {
+    "value": "Is there something I should know?",
+    "faction": "Zerg",
+    "unit": "Infested Duran",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "04930743-8a76-5e93-b0a5-3514bb118d0f"
+  },
+  {
+    "value": "Yes, Cerebrate?",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ca0a14b8-db72-5907-80e3-66138260a226"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "c42ba48c-0d7c-583a-8201-b13f079bbb56"
+  },
+  {
+    "value": "What is it now??",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "e93c90ac-5a25-5fa6-a465-9bb3e73f5db5"
+  },
+  {
+    "value": "I'm listening...",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5c2089bc-c7ce-533d-8430-5c4f38e9fa3e"
+  },
+  {
+    "value": "Hmm...",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cbd25214-1a69-5b28-9538-3eebd998a215"
+  },
+  {
+    "value": "A bold move.",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "247d7410-bc37-53e1-8b22-7d441a617351"
+  },
+  {
+    "value": "On my way...",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ed0e009a-e46e-532a-a1b0-9ef7a23d48b2"
+  },
+  {
+    "value": "Alright!",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f4dbf0a9-bffe-518e-83a2-f292accca054"
+  },
+  {
+    "value": "You begin to annoy me, Cerebrate.",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "35af8a93-1403-55de-a1a2-a20dd7457f45"
+  },
+  {
+    "value": "But don't think that I need you.",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9111cb00-60f6-5687-88a7-b88e0e916b14"
+  },
+  {
+    "value": "Should you become a nuisance...",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "3d03529b-6bce-55c5-ab71-dcf8bd8c2bae"
+  },
+  {
+    "value": "I'll kill you myself.",
+    "faction": "Zerg",
+    "unit": "Infested Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "218ee6c3-3a76-56c6-b3b1-382c92ae8589"
+  },
+  {
+    "value": "Live for the Swarm!",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c597fdad-297e-50d4-9c21-2dcaf5a3fbe0"
+  },
+  {
+    "value": "Ready to kill.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7155d56a-96fe-5aa1-98c9-3eb73bbb6b4f"
+  },
+  {
+    "value": "Prepare to die...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "cfd69a5b-c297-59d5-8326-c07582f10f09"
+  },
+  {
+    "value": "Let me serve.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "e511b76a-ce91-5da8-b1dc-299645954070"
+  },
+  {
+    "value": "Sacrifice me...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "32f0bcd6-300e-5a1c-89c0-803d153485ed"
+  },
+  {
+    "value": "Yes...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a4234229-6751-5909-ac21-b20dbb89de73"
+  },
+  {
+    "value": "Immediately...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "60e4779c-d575-55b5-99db-00f284d44b17"
+  },
+  {
+    "value": "Gladly...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "52e03dee-c5f1-508f-94fb-1560653e2dba"
+  },
+  {
+    "value": "For the Overmind...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a6f5f21-a079-597e-bc74-d58f0e54cfed"
+  },
+  {
+    "value": "I am wretched...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4a606c31-3a78-5070-8e47-af92d796e3a0"
+  },
+  {
+    "value": "...But I am strong!",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "dab637da-c427-59cd-8dba-f3d792270d25"
+  },
+  {
+    "value": "I am the future...",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5b73dd60-1748-5016-a3b7-7e12f053141f"
+  },
+  {
+    "value": "I am zerg!",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "49633e76-80ed-5e37-a40d-68aaa3bfbea1"
+  }
+]

@@ -1,0 +1,1766 @@
+[
+  {
+    "value": "I am ready.",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "1ca428d5-7c75-5bb9-94e9-b36f4b92cfcc"
+  },
+  {
+    "value": "Direct my wrath.",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "08a69e63-eb4e-5464-9bb3-0c4373f21c45"
+  },
+  {
+    "value": "Yes, Executor.",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9991e9d7-50d8-5bc7-aded-6763ff8e1aa4"
+  },
+  {
+    "value": "State your will.",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f70804b9-4efa-51f5-8462-6b9d66657292"
+  },
+  {
+    "value": "For Aiur...",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "45252565-b0d5-5c80-8b0e-d1034250c0c9"
+  },
+  {
+    "value": "Consider it done.",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "78fcadbb-865c-575c-8856-3a893bcde550"
+  },
+  {
+    "value": "Indeed...",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4f711a94-64f7-513e-971a-37a6007e27c0"
+  },
+  {
+    "value": "I concur.",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ad45ca85-271b-56a7-8996-90a8d44cd0bc"
+  },
+  {
+    "value": "Explain this odd behavior...",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d086502-9398-50b0-b734-a7b5c31c0b60"
+  },
+  {
+    "value": "Stop poking me!",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "fa4c7213-69a7-5ea9-be7a-fa852bd733ce"
+  },
+  {
+    "value": "What do I look like, an Orc?",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7e6cf1aa-c286-5fe5-a988-9961ad8d0b69"
+  },
+  {
+    "value": "This is not Warcraft in space!",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "378e2c1a-c3b9-546c-82c7-3e7414e077c4"
+  },
+  {
+    "value": "It's much more sophisticated!",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "299be8d1-1a99-59ab-bd41-4e3df64c6410"
+  },
+  {
+    "value": "I know it's not 3-D!!",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86f10329-2d46-5afd-9b3e-e2e3ee2f7700"
+  },
+  {
+    "value": "Executor?",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7cf13c8b-9cb4-54ee-b064-cabcf4f525b4"
+  },
+  {
+    "value": "Your command?",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "0ed59c00-ac57-58df-8d87-2c65321a5dad"
+  },
+  {
+    "value": "What would you ask of me?",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "b689af4a-537e-515d-b3b8-a2a567a402aa"
+  },
+  {
+    "value": "I hunger for battle...",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "044262bf-ac1d-595d-bdd5-86ce277c10af"
+  },
+  {
+    "value": "For Aiur!",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "77652142-410a-555d-8601-4b08d20323c2"
+  },
+  {
+    "value": "Immediately!",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9383d36d-ac2a-5dcc-b0da-b2d93ec6f104"
+  },
+  {
+    "value": "Nach ta'kala!",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f776c758-a549-564d-880a-b05c47f09a67"
+  },
+  {
+    "value": "As you will!",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6cd44de2-23b1-53a4-b4cb-76dc5d1b59fe"
+  },
+  {
+    "value": "I fear no enemy!",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f82182dc-8669-533a-95fc-22b43292fa46"
+  },
+  {
+    "value": "For the Khala is my strength!",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "67a9c2a8-9ef7-5fdd-894b-a69151568ec5"
+  },
+  {
+    "value": "I fear not death.",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "bdf5a2eb-3c73-51df-b4ec-71f9532a7deb"
+  },
+  {
+    "value": "For our strength is eternal.",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "b207e84f-5feb-54b6-80d4-ebbfdfe2c063"
+  },
+  {
+    "value": "Yes, Executor?",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7480e8b7-e9a7-5070-b5ef-d4ade27ca390"
+  },
+  {
+    "value": "I hear you.",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6472df22-076e-5713-9ef1-f05c7aec13f0"
+  },
+  {
+    "value": "How may I help?",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9fa9ee50-47c1-5353-9be4-01d0aeb977f1"
+  },
+  {
+    "value": "Your will?",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9712bd1b-95c0-54ae-b236-ea35a3a3b8de"
+  },
+  {
+    "value": "Of course.",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "0cf405fd-fe3e-5ba4-b9da-be8d751ba1cf"
+  },
+  {
+    "value": "It shall be done.",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "51dc53f5-2519-5100-8ca6-77421598e801"
+  },
+  {
+    "value": "For Adun!",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6b6a2dd7-d9c6-5ac6-baef-75ead1fcf834"
+  },
+  {
+    "value": "Terrie Khala!",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6fc12ab1-c5b9-5ab5-9329-ddda91293c26"
+  },
+  {
+    "value": "Speak quickly, Executor!",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "67e604ae-167f-528a-8b4b-30f122eb247c"
+  },
+  {
+    "value": "I don't have time for games!",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "80e9d97c-4571-5d61-9fc1-a897303af689"
+  },
+  {
+    "value": "I was Executor long before you!",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "8bf4ffa2-bb22-5fce-bb21-8890933460fe"
+  },
+  {
+    "value": "So do not try my patience!",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a3cca268-0d38-5170-9e64-126ddc3052dd"
+  },
+  {
+    "value": "Hmm?",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "d1f9259d-e5ff-5c9c-ad03-04b1641c2dc5"
+  },
+  {
+    "value": "You address me?",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a85d7d1b-1ceb-58b5-8b8a-b608da662149"
+  },
+  {
+    "value": "Your orders, Templar?",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "1a785cc2-7084-5c64-af74-39ce7ec29062"
+  },
+  {
+    "value": "Khas Naradah!!",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6880a492-85f5-50ca-9db6-45e9b26eca4b"
+  },
+  {
+    "value": "I do this for Aiur.",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "dcfa48e1-347f-55ac-a8fe-adff86c992e7"
+  },
+  {
+    "value": "So be it.",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9b07a457-6205-5d30-b0ea-9fa30c8d0f02"
+  },
+  {
+    "value": "It will be done.",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "633a7d11-0f84-5077-955d-f072c95cf9db"
+  },
+  {
+    "value": "En Taro Adun!",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9b4857b9-67a0-5372-88bd-1e5f3d0f1971"
+  },
+  {
+    "value": "You have persecuted us for generations...",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a3a98de-464a-5e25-92f6-14a84e78854d"
+  },
+  {
+    "value": "...and now you beg us to aid you?",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "c17f9a10-2cd5-5943-b596-73e80097bf25"
+  },
+  {
+    "value": "We will do what we must...",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2bd91b7d-733c-55cb-ac16-28b1a94d5b48"
+  },
+  {
+    "value": "...but we do it for Aiur, not you...",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9e64da16-83b8-5829-aefc-da6dce77fc80"
+  },
+  {
+    "value": "Warp fields stabilized.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "dccaa8ef-2d09-51a4-8fd6-153094325226"
+  },
+  {
+    "value": "We feel your presence.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c0be0990-19b6-5347-aca9-6c4eb2e6fbf7"
+  },
+  {
+    "value": "Duras?",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "d587f7ff-dd5a-5376-a2c5-b332f9dd9cd5"
+  },
+  {
+    "value": "Dunad'wynn.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5f017f30-018f-5152-bc36-aa2125b182ba"
+  },
+  {
+    "value": "We are vigilant.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "9bf3e486-3f09-5bbd-8c5f-a91a9458f7d7"
+  },
+  {
+    "value": "Nihn'kas Neehn.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c70ab172-8121-5f69-9990-16f0cb26c006"
+  },
+  {
+    "value": "J'tokoh Zohl.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7b304123-484f-5053-a55f-8c2b7f21ca21"
+  },
+  {
+    "value": "Gowron.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c0406371-ba9a-5be0-b3b5-6a91f15c8ad9"
+  },
+  {
+    "value": "We sense a soul in search of answers.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "55ee7fcc-fc78-50d1-ab30-a92807530b99"
+  },
+  {
+    "value": "Do you seek knowledge of time travel?",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "67a780ee-3c57-5443-9e9e-66dc165b2cec"
+  },
+  {
+    "value": "We'll take that as a yes.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "248d6b20-fe9c-58e3-8780-f93cee5afad8"
+  },
+  {
+    "value": "And now for your first lesson.",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5b63b971-75e0-557c-a188-75199c48a3cb"
+  },
+  {
+    "value": "Do you seek knowledge of time travel?",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "67a780ee-3c57-5443-9e9e-66dc165b2cec"
+  },
+  {
+    "value": "The merging is complete.",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "91483019-a39f-52ca-94bb-3b96ece96664"
+  },
+  {
+    "value": "We burn...",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "21a54f51-5d3e-5f9e-8565-1e113a20cd3b"
+  },
+  {
+    "value": "We need focus...",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "cc7c83d1-800f-5e9a-b2aa-f74b72182c60"
+  },
+  {
+    "value": "Thorasoh'cahp!",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "e8ce467d-0886-592b-bca2-27f2079b1472"
+  },
+  {
+    "value": "Power overwhelming!",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "16245460-d02e-5edb-aee7-5532904b25ab"
+  },
+  {
+    "value": "Destroy...",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "17a11b05-6b0e-558e-8fd9-16ad88e674f3"
+  },
+  {
+    "value": "Annihilate...",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "cec02ad9-f2de-5e29-9c47-506c12612322"
+  },
+  {
+    "value": "Obliterate...",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0e7f975c-a7da-5faa-aa4c-eb3b23a0535e"
+  },
+  {
+    "value": "Eradicate...",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "cbcbb912-ff23-5075-a7b0-7f91ad04e2b1"
+  },
+  {
+    "value": "It all looks so different on this side.",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "995689e7-3538-559d-aa57-9394a48f2da7"
+  },
+  {
+    "value": "Break on through!",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "577d26fe-cb44-5118-9319-a932ea040448"
+  },
+  {
+    "value": "It's beautiful...",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "6863f876-57df-5cf5-8cca-036c9a06d886"
+  },
+  {
+    "value": "They should've sent a poet.",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "09368496-d1c1-535d-9547-fce6ecb3ea4f"
+  },
+  {
+    "value": "Carrier has arrived.",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a9207d4f-e06e-5c4a-8208-b0e4b80e5f1d"
+  },
+  {
+    "value": "Instructions.",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f867c4-e605-57a7-b16f-2ada938cba47"
+  },
+  {
+    "value": "Your command?",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "52439b88-e8d9-57e2-8012-68392f238888"
+  },
+  {
+    "value": "Loh'Klahs?",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "959d3275-345d-5289-9a7b-9b5a31c32953"
+  },
+  {
+    "value": "Ischk'nu?",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "e67fe17b-11b5-56dd-8f75-d93c963d35d0"
+  },
+  {
+    "value": "Commencing.",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "174279a0-a6b5-5868-8285-f0a64b0b9cb6"
+  },
+  {
+    "value": "Kokal'tulah!",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "32475dc4-22be-55c7-8c86-02a7e5f32ff8"
+  },
+  {
+    "value": "Gau'ju!",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "735dd94f-ead0-5385-a068-9b191e9b0c02"
+  },
+  {
+    "value": "Affirmative.",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "d46f9083-cdf3-5033-b6df-a7246a56180e"
+  },
+  {
+    "value": "Our enemies are legion!",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7d7e20d1-77d7-5c9a-8da8-054f2ee84388"
+  },
+  {
+    "value": "And still you procrastinate!",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "678d7750-8ded-5d62-908f-b914c3715d62"
+  },
+  {
+    "value": "Command, or you will be relieved!",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "52194c02-efa2-5539-8de4-8c2da425ee7e"
+  },
+  {
+    "value": "This is not an idle threat!",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "21752a17-8105-5960-95a0-fb01c7de3a46"
+  },
+  {
+    "value": "It is a good day to die.",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "05af8154-373a-5653-a285-2b797ef43fc9"
+  },
+  {
+    "value": "Ready for battle.",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "99bfba5a-bd26-501c-b853-3ee687a515e2"
+  },
+  {
+    "value": "May I be of service?",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2444b055-6f6d-5b4e-80f5-95f156767715"
+  },
+  {
+    "value": "I stand ready.",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a10d3d7c-07d9-52a1-a8ab-904e0b331ec3"
+  },
+  {
+    "value": "Let us attack!",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "00e356cf-cbd1-50e0-9dc2-0101a5616ba2"
+  },
+  {
+    "value": "Excellent...",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7f3ff67d-741f-5ccb-a291-6d6b1dead236"
+  },
+  {
+    "value": "Adun Toridas!",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "cbda6c5a-5d69-589e-a340-623d4f6df18e"
+  },
+  {
+    "value": "Haha! At last!",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "cc3bd304-f5d1-5acf-a258-f82e3a57ae8e"
+  },
+  {
+    "value": "I thought you'd see it my way.",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5659b16b-6b07-5bde-913e-d75c21b65bd7"
+  },
+  {
+    "value": "Look at all the pretty lights!",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "9ab69d98-7492-5cab-b94b-86567cdef817"
+  },
+  {
+    "value": "I wonder what this button does.",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "e15a5139-100d-5ff3-9e36-3d65cdbde826"
+  },
+  {
+    "value": "I think this was a BIG mistake.",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "169f3666-0573-542d-b6d1-45660e6f3d2b"
+  },
+  {
+    "value": "When the moon... is in the seventh house...",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7800689d-e4d5-582e-8f81-3fe737ec5b84"
+  },
+  {
+    "value": "And Jupiter... is... umm...",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "d4742f02-c789-590f-97b3-f19f2ff325ea"
+  },
+  {
+    "value": "Zefram Cochrane, is that you?",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "1fad07ab-5d53-59dc-9fe5-a2137529900f"
+  },
+  {
+    "value": "What did you do to your hair?",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff190265-d868-53a2-ad5b-fe06be467746"
+  },
+  {
+    "value": "We are as one...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "032782ce-134d-509f-b48f-6bdd9545448a"
+  },
+  {
+    "value": "Must have energy...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "062cb38a-5b48-52f5-8af9-00c5b181c4d2"
+  },
+  {
+    "value": "We hear you...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5ed568fd-7ace-5b3a-ab4f-316de33ca4ff"
+  },
+  {
+    "value": "Thoughts in chaos...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b58b39ba-3d67-5894-9d97-1677aef9019b"
+  },
+  {
+    "value": "Must feed...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "def0f86c-6baa-5053-8472-6728cca8f125"
+  },
+  {
+    "value": "Will go...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "90d7e0cf-8a23-5791-81bd-31b078629086"
+  },
+  {
+    "value": "Oblivion awaits...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78c1ae86-883b-5ffd-86c7-b10aa8631d36"
+  },
+  {
+    "value": "We move...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "6b9b6033-bb35-5b15-8b5e-374f128fbce4"
+  },
+  {
+    "value": "Must consume...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b3a5c4e7-ffad-5d32-bd2b-44a1607f7103"
+  },
+  {
+    "value": "Or oblivion will take us...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5eb299d8-f6dd-5b1e-946e-6a821d24c4a4"
+  },
+  {
+    "value": "Adun, save me...!",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "71a70454-6704-5384-8185-0af1cb1b12c6"
+  },
+  {
+    "value": "Darkness overpowering...",
+    "faction": "Protoss",
+    "unit": "Dark Archon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7ee11705-a345-5fc0-9283-60246e8cea3a"
+  },
+  {
+    "value": "Adun Toridas.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0465faca-6ce0-5584-9fe5-c5dc53a52803"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0598b70e-247e-5721-973c-22b527cae8f4"
+  },
+  {
+    "value": "Zerashk Gulida.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "d266f295-ff30-5d08-b117-242b135baa4a"
+  },
+  {
+    "value": "I'm waiting...",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0d30d9ea-9d82-55a2-b743-991cc63bed85"
+  },
+  {
+    "value": "Neraz Gulio.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b85fac15-3855-58a8-b3f6-5bc4f3369af9"
+  },
+  {
+    "value": "For Aiur.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "1866f753-9f8c-5e59-8848-375ce65fae03"
+  },
+  {
+    "value": "Ner'Mah.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "63d901fa-0af9-5ecd-a40b-187eea22fc96"
+  },
+  {
+    "value": "So be it.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "06d43901-576c-5691-885b-424a11d1decd"
+  },
+  {
+    "value": "Very well.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fcb2bcdd-f439-567f-abc5-a2aa328ad55f"
+  },
+  {
+    "value": "Your taunts are ill-advised, Templar.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fc180c41-8b82-5220-9892-f72800d6ec88"
+  },
+  {
+    "value": "Do not provoke me to violence.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b7f7cb76-fbaf-5ccf-bb8f-21f1918ffdcf"
+  },
+  {
+    "value": "You could no more evade my wrath...",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "6cad7cd9-0472-528f-b8c2-eac9391ac327"
+  },
+  {
+    "value": "...than you could your own shadow.",
+    "faction": "Protoss",
+    "unit": "Dark Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "990aef8d-fe88-5ca9-9b54-e1acec0ff503"
+  },
+  {
+    "value": "I have returned.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "345c8375-178e-5815-bbb1-317687059d56"
+  },
+  {
+    "value": "Receiving.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ecad3def-526c-50b6-bb28-63e051b5878d"
+  },
+  {
+    "value": "Awaiting instructions.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b336ff9d-2b46-5d2c-8825-b3b63fbbf549"
+  },
+  {
+    "value": "Transmit.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ad25b62e-1cf1-5379-a112-b2d76ebe5468"
+  },
+  {
+    "value": "Input command.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "783c3550-22d1-546f-bd80-1949a6bca05e"
+  },
+  {
+    "value": "Galahoslos?",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "82cc01d3-a7d5-5bb1-890e-8746086fdbce"
+  },
+  {
+    "value": "Za Khaladas.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7d44b5d6-2359-5448-8a58-f03680f641a1"
+  },
+  {
+    "value": "Make use of me.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c883ccf5-e84b-57f8-b196-c287a55af089"
+  },
+  {
+    "value": "I am needed?",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0f8ed4c0-5d8a-5853-9f77-420fe2a6f91f"
+  },
+  {
+    "value": "Confirmed.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "105a210f-d8e0-5252-bcf7-9bf9dcb4a373"
+  },
+  {
+    "value": "Initiating.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "1e92bd5c-de37-5e7a-9789-b9fe338bb445"
+  },
+  {
+    "value": "Lok pii.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "62f07c92-8ee5-59b9-aaa0-585adb4cba1b"
+  },
+  {
+    "value": "Metonah.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "37469810-7831-5ff7-9867-50fb72283830"
+  },
+  {
+    "value": "Commencing.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f4ba3fd0-d0d9-5e6b-ae8f-bae9cc238c8d"
+  },
+  {
+    "value": "Nagat Zuul.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "9705ff19-6e71-5bbd-a86d-c2e9d11297f0"
+  },
+  {
+    "value": "For vengeance.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4e4068e7-aca6-5e26-913c-132a8022cd5a"
+  },
+  {
+    "value": "Unauthorized transmission.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "bb4e51a2-75a9-564f-9efc-7e9d0837943b"
+  },
+  {
+    "value": "Incorrect protocol.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0fd43368-0c12-54a4-b6c8-7942bb267b6b"
+  },
+  {
+    "value": "Drop your weapon! You have 15 seconds to comply.",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "91287a4a-a40b-51b7-96cf-dd193db2a5c1"
+  },
+  {
+    "value": "Five... Four... Three. Two. One!",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c20fbeec-1234-5c48-9f09-d2358ba676a2"
+  },
+  {
+    "value": "Khassar'Detemplari...",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fd0e2970-52b7-5196-ba7e-e80614227c33"
+  },
+  {
+    "value": "Your thoughts...?",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "32aad862-9ed8-56b7-9b96-71a0fea36b77"
+  },
+  {
+    "value": "Zerah'hah...",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "21f29443-ea03-50f0-8a41-3b61b1765274"
+  },
+  {
+    "value": "I heed thy call.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "6de5bfa8-1e6e-55e5-ae2a-100bef6058d5"
+  },
+  {
+    "value": "State thy bidding.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "32569d17-585a-5d28-83c8-b6f046fac7d7"
+  },
+  {
+    "value": "You think as I do.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "389072ed-469e-51bc-96cb-0e9e90808e6e"
+  },
+  {
+    "value": "It shall be done.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5a535e30-7542-5e20-990d-8a3b98a91c76"
+  },
+  {
+    "value": "My path is set.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4e1a7782-4311-5e51-9b5b-2578d84bcb17"
+  },
+  {
+    "value": "Zzz'togh.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "e64bca6d-127e-55d4-b958-17f2e9d4a59d"
+  },
+  {
+    "value": "Your thoughts betray you.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346be59a-a580-527f-9255-49e0cc2a917f"
+  },
+  {
+    "value": "I see you have an appetite for destruction.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f73470d9-13c7-5683-8269-805aa30093a8"
+  },
+  {
+    "value": "And you have learned to use your illusion.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78246130-24a2-5e76-9e5c-711a16e54cf4"
+  },
+  {
+    "value": "But I find your lack of control disturbing.",
+    "faction": "Protoss",
+    "unit": "High Templar",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "32ae06a3-beda-5516-a45b-f71c0a2fa85e"
+  },
+  {
+    "value": "I sense a soul in search of answers.",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b2fee149-f40e-5198-9495-2f5444554be7"
+  },
+  {
+    "value": "That sounds like a... a HUGE, GARGANTUAN, SWOLLEN, BLOATED MUSHROOM!",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ed33ad43-142b-5fce-ae9c-205ec89eb765"
+  },
+  {
+    "value": "One small step for a man, one giant- STOP POKING MEEEE!",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "9ce66f21-1550-57d8-9e22-1a480bb06a34"
+  },
+  {
+    "value": "In the age of chaos, two factions battle for dominance.",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "04cc5f69-3e06-5fd4-b2f4-a3b01def7c41"
+  },
+  {
+    "value": "Yeah?",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "6d0423bf-adf0-5d0f-98be-548523657410"
+  },
+  {
+    "value": "What do you need?",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "408d4466-14e9-5187-a0a6-a9fbfab3aca0"
+  },
+  {
+    "value": "No.",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "58bd412d-a7cd-59b5-8e94-435f70b1d6a3"
+  },
+  {
+    "value": "Never mind.",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "cfce6e7d-8aa8-5ec3-9ef5-92fdf3d76713"
+  },
+  {
+    "value": "Teleport successful.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5292e860-0012-5081-b9a2-8600e7d1871d"
+  },
+  {
+    "value": "Awaiting command.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "67015724-cd35-5ce0-bc62-e4377941fc87"
+  },
+  {
+    "value": "Standing by.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "07148944-cfb6-5620-9716-0c7da86b7e03"
+  },
+  {
+    "value": "Contact.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "d7a40b46-ae2c-5add-b7ef-622362773d3e"
+  },
+  {
+    "value": "Joh'giiv?",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "6c4c58ee-b71c-549c-b7ca-9f25d3c127a9"
+  },
+  {
+    "value": "Chaos.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "09196f67-aaa6-55e9-83e1-3907ba477140"
+  },
+  {
+    "value": "Koh'koh rii.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "48a20c3c-c2f1-5bc7-9287-bf0778f801ca"
+  },
+  {
+    "value": "Locus acknowledged.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4de7ec23-0487-525d-b240-9e6807f78fce"
+  },
+  {
+    "value": "It will be done.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a7a648c7-0914-5b87-b439-7db76b205d2f"
+  },
+  {
+    "value": "Signal unstable...",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "6e707504-c914-5f22-ad49-a2ec13507496"
+  },
+  {
+    "value": "Psionic link, dissipating.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "03d38abc-9719-5bdb-bd20-d0c0592bd043"
+  },
+  {
+    "value": "Adjusting neural transmission.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b20561f8-8dcf-5bd5-9fc9-5cad77bc6071"
+  },
+  {
+    "value": "Self-refraction inhibitors reengaged.",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "d1af0afa-a3c8-5c0e-b0de-6ddadadd4735"
+  },
+  {
+    "value": "My life for Aiur!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe0e8adb-c62c-5b21-a034-f330fc9b58c3"
+  },
+  {
+    "value": "What battle calls?",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0a104996-9a1f-539d-9191-187980dd72c5"
+  },
+  {
+    "value": "Issah'tu!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2e28ebe6-e2bf-5b26-89f1-d5e3b4f281ac"
+  },
+  {
+    "value": "I long for combat!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2b63fa8d-e6bf-5268-ad44-3d357b44638f"
+  },
+  {
+    "value": "Gee'hous!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "af001dd1-6a87-5f90-b989-17f1666378b7"
+  },
+  {
+    "value": "Gau'gurah!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe6554a2-09f0-5de1-9a3d-4c8a7bd17159"
+  },
+  {
+    "value": "Thus I serve!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "765a11d9-f4be-5a4c-9e57-5c3d6d923c4d"
+  },
+  {
+    "value": "Honor guide me!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "7b25e026-f040-5c44-9990-ff078b87dfa6"
+  },
+  {
+    "value": "For Adun!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Confirming",
+    "isHero": false,
+    "isMelee": true,
+    "id": "54ef797b-5d61-5da8-8280-5150bc52c27f"
+  },
+  {
+    "value": "En Taro Adun!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "d9c8af9e-2907-5acc-a6d7-adb12622681b"
+  },
+  {
+    "value": "All for the Empire.",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0a5dadb3-309f-5f2f-8216-a8a18628e99f"
+  },
+  {
+    "value": "Doom to all who threaten the homeworld!",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "38d0568f-0e33-525d-854d-c796648371e0"
+  }
+]

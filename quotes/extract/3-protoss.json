@@ -1,0 +1,2322 @@
+[
+  {
+    "value": "   I am ready.\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Direct my wrath.\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Yes, Executor.\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   State your will.\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   For Aiur...\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Consider it done.\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Indeed...\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I concur.\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Explain this odd behavior...\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Stop poking me!\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What do I look like, an Orc? \n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   This is not Warcraft in space!\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   It's much more sophisticated!\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I know it's not 3-D!!\n",
+    "faction": "Protoss",
+    "unit": "Artanis",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Executor?\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Your command?\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What would you ask of me?\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I hunger for battle...\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   For Aiur!\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Immediately!\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Nach ta'kala!\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   As you will!\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I fear no enemy!\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   For the Khala is my strength!\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I fear not death.\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   For our strength is eternal.\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Fenix",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Yes, Executor?\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I hear you.\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   How may I help?\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Your will?\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Of course.\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   It shall be done.\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   For Adun!\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Terrie Khala!\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Speak quickly, Executor!\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I don't have time for games!\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I was Executor long before you!\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   So do not try my patience!\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Tassadar",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Hmm?\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   You address me?\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Your orders, Templar?\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Khas Naradah!!\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I do this for Aiur.\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   So be it.\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   It will be done.\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   En Taro Adun!\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   You have persecuted us for generations...\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   ...and now you beg us to aid you?\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   We will do what we must...\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   ...but we do it for Aiur, not you...\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Zeratul",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Warp fields stabilized.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We feel your presence.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Duras?\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Dunad'wynn.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We are vigilant.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Nihn'kas Neehn.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   J'tokoh Zohl.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Gowron.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We sense a soul in search of answers.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Do you seek knowledge of time travel?\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We'll take that as a yes.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   And now for your first lesson. (creepy laughing)\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (rapid backwards replay of the previous lines) Do you seek knowledge of time travel?\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/4/46/Recall_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606200255\" \t alt=\"Recall Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Recall_Icon_SC1.PNG\" \tdata-image-name=\"Recall Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Recall 1.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/4/46/Recall_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606200255\" \t alt=\"Recall Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Recall_Icon_SC1.PNG\" \tdata-image-name=\"Recall Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Recall 2.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/4/46/Recall_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606200255\" \t alt=\"Recall Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Recall_Icon_SC1.PNG\" \tdata-image-name=\"Recall Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Recall 3.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/4/46/Recall_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606200255\" \t alt=\"Recall Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Recall_Icon_SC1.PNG\" \tdata-image-name=\"Recall Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Recall 4.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/7/73/StasisField_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606200258\" \t alt=\"StasisField Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"StasisField_Icon_SC1.PNG\" \tdata-image-name=\"StasisField Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Stasis Field.\n",
+    "faction": "Protoss",
+    "unit": "Arbiter",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   The merging is complete.\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We burn...\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We need focus...\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Thorasoh'cahp!\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Power overwhelming!\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Destroy...\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Annihilate...\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Obliterate...\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Eradicate...\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   It all looks so different on this side.\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Break on through!\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   It's beautiful...\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   They should've sent a poet.\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/6/68/ArchonWarp_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606041910\" \t alt=\"ArchonWarp Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"ArchonWarp_Icon_SC1.PNG\" \tdata-image-name=\"ArchonWarp Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"21\"  \t \t \t \t> Archon Warp.\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Archon",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Carrier has arrived.\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Instructions.\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Your command?\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Loh'Klahs?\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ischk'nu?\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Commencing.\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Kokal'tulah!\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Gau'ju!\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Affirmative.\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Our enemies are legion!\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   And still you procrastinate!\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Command, or you will be relieved!\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   This is not an idle threat!\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Interceptor launch.\n",
+    "faction": "Protoss",
+    "unit": "Carrier",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   It is a good day to die. (Warcraft II cheat code.)\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ready for battle.\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   May I be of service?\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I stand ready.\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Let us attack!\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Excellent...\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Adun Toridas!\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Haha! At last!\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I thought you'd see it my way.\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Look at all the pretty lights!\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I wonder what this button does. (beep, followed by sirens)\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (siren blaring steadilly) I think this was a BIG mistake.\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (radio playing in background)(singing badly) When the moon... is in the seventh house...\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (radio playing in background)(singing badly still) And Jupiter... is... umm...\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (radio playing in background, followed by mysterious flare) Zefram Cochrane, is that you?\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (radio playing in background) What did you do to your hair?\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack.\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit.\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/3/31/DisruptWeb_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606202309\" \t alt=\"DisruptWeb Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"DisruptWeb_Icon_SC1.PNG\" \tdata-image-name=\"DisruptWeb Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Disruption Web.\n",
+    "faction": "Protoss",
+    "unit": "Corsair",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We are as one...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Must have energy...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We hear you...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Thoughts in chaos...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Must feed...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Will go...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Oblivion awaits...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   We move...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (ghostly moan)\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Must consume...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Or oblivion will take us...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Adun, save me...!\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Darkness overpowering...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/7/7b/DArchonWarp_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606190757\" \t alt=\"DArchonWarp Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"DArchonWarp_Icon_SC1.PNG\" \tdata-image-name=\"DArchonWarp Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Dark Archon Warp.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/96/Feedback_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606190800\" \t alt=\"Feedback Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Feedback_Icon_SC1.PNG\" \tdata-image-name=\"Feedback Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Feedback.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/8/8e/Maelstrom_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606190759\" \t alt=\"Maelstrom Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Maelstrom_Icon_SC1.PNG\" \tdata-image-name=\"Maelstrom Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Maelstrom.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/a/af/MindCont_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606190759\" \t alt=\"MindCont Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"MindCont_Icon_SC1.PNG\" \tdata-image-name=\"MindCont Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Mind Control.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Archon",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Adun Toridas.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yes?\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Zerashk Gulida.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I'm waiting...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Neraz Gulio.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   For Aiur.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ner'Mah.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   So be it.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Very well.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Your taunts are ill-advised, Templar.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Do not provoke me to violence.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You could no more evade my wrath...\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   ...than you could your own shadow.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/7/7b/DArchonWarp_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606190757\" \t alt=\"DArchonWarp Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"DArchonWarp_Icon_SC1.PNG\" \tdata-image-name=\"DArchonWarp Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Dark Archon Warp.\n",
+    "faction": "Protoss",
+    "unit": "Dark_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I have returned.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Receiving.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Awaiting instructions.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Transmit.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Input command.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Galahoslos?\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Za Khaladas.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Make use of me.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I am needed?\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirmed.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Initiating.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Lok pii.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Metonah.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Commencing.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Nagat Zuul.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   For vengeance.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Unauthorized transmission.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Incorrect protocol.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (warning beep) Drop your weapon! You have 15 seconds to comply.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Five... Four... Three. Two. One! (fires phase disruptor)\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Dragoon",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Khassar'Detemplari...\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Your thoughts...?\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Zerah'hah...\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I heed thy call.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   State thy bidding.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   You think as I do.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   It shall be done.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   My path is set.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Zzz'togh.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Your thoughts betray you.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I see you have an appetite for destruction.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   And you have learned to use your illusion.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   But I find your lack of control disturbing.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/6/68/ArchonWarp_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606041910\" \t alt=\"ArchonWarp Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"ArchonWarp_Icon_SC1.PNG\" \tdata-image-name=\"ArchonWarp Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"21\"  \t \t \t \t> Archon Warp.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/92/Hallucination_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606041908\" \t alt=\"Hallucination Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Hallucination_Icon_SC1.PNG\" \tdata-image-name=\"Hallucination Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Hallucination 1.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/92/Hallucination_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606041908\" \t alt=\"Hallucination Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Hallucination_Icon_SC1.PNG\" \tdata-image-name=\"Hallucination Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Hallucination 2.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/2/21/PsiStorm_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606041909\" \t alt=\"PsiStorm Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"PsiStorm_Icon_SC1.PNG\" \tdata-image-name=\"PsiStorm Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Psionic storm 1.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/2/21/PsiStorm_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606041909\" \t alt=\"PsiStorm Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"PsiStorm_Icon_SC1.PNG\" \tdata-image-name=\"PsiStorm Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Psionic storm 2.\n",
+    "faction": "Protoss",
+    "unit": "High_Templar",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (static)(voice of Adria) I sense a soul in search of answers.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (static)(Voice of Griswold) That sounds like a... a HUGE, GARGANTUAN, SWOLLEN, BLOATED MUSHROOM!\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (static)(voice of Neil Armstrong) One small step for a man, one giant- (harsh static)(voice of Orc Grunt) STOP POKING MEEEE!\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (static)(\"Medieval Man\" playing, [1]) In the age of chaos, two factions battle for dominance.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (static)(German advertisement for Warcraft II and its expansion set)\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Protoss",
+    "unit": "Observer",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   \"Yeah?\"\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   \"What do you need?\"\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (beep beep) \"No.\"\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   \"Never mind.\"\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 1.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 2.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Error 1.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Error 2.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Mine.\n",
+    "faction": "Protoss",
+    "unit": "Probe",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Reaver",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Teleport successful.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Awaiting command.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Standing by.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Contact.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Joh'giiv?\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Chaos.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Koh'koh rii.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Locus acknowledged.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   It will be done.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (distorted) Signal unstable...\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (very distorted) Psionic link, dissipating.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Adjusting neural transmission.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (rapid garbled speech)\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   (distortion dies out) Self-refraction inhibitors reengaged.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Scout",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 5.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Building 1.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Building 2.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Building 3.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Building 4.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Building 5.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Shuttle",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   My life for Aiur!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   What battle calls?\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Issah'tu!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I long for combat!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Gee'hous!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Gau'gurah!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Thus I serve!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Honor guide me!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   For Adun!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   En Taro Adun!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   All for the Empire.\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Doom to all who threaten the homeworld!\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 1.\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 2.\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit.\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Rage.\n",
+    "faction": "Protoss",
+    "unit": "Zealot",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  }
+]

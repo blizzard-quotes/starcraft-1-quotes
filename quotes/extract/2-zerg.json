@@ -1,0 +1,1994 @@
+[
+  {
+    "value": "   How can I be of service?\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What do you need?\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'm here.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Cerebrate?\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'll take care of it.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   You got it.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Right away.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Of course.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Is there a problem?\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I like your style, friend.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   But I think you're getting a little too familiar.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I don't believe we've met.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I am Duran. ... Who are you?\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I told you my name. It's Duran, Duran!\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What's so funny?\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Please, please! Tell me now.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Is there something I should know?\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Duran",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Yes, Cerebrate? \n   Yes? (Brood War version)\n\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Yes? (Brood War version)\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   (harsh growl)\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   What is it now??\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'm listening...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Hmm...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   A bold move.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   On my way...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Alright!\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   You begin to annoy me, Cerebrate.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   But don't think that I need you.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Should you become a nuisance...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   I'll kill you myself.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Kerrigan",
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack.\n",
+    "faction": "Zerg",
+    "unit": "Broodling",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/b/b1/Consume_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605202857\" \t alt=\"Consume Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Consume_Icon_SC1.PNG\" \tdata-image-name=\"Consume Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Consume.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/0/0f/Plague_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605202857\" \t alt=\"Plague Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Plague_Icon_SC1.PNG\" \tdata-image-name=\"Plague Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Plague 1.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/0/0f/Plague_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100605202857\" \t alt=\"Plague Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Plague_Icon_SC1.PNG\" \tdata-image-name=\"Plague Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Plague 2.\n",
+    "faction": "Zerg",
+    "unit": "Defiler",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit.\n",
+    "faction": "Zerg",
+    "unit": "Devourer",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 5.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 5.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Error.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Mine.\n",
+    "faction": "Zerg",
+    "unit": "Drone",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Egg",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Egg",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Egg",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected.\n",
+    "faction": "Zerg",
+    "unit": "Egg",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Egg",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Guardian",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Hydralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Live for the Swarm!\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Ready to kill.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Prepare to die...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Let me serve.\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Sacrifice me...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Yes...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Immediately...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Gladly...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   For the Overmind...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I am wretched...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   ...But I am strong!\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I am the future...\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   I am zerg!\n",
+    "faction": "Zerg",
+    "unit": "Infested_Terran",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected.\n",
+    "faction": "Zerg",
+    "unit": "Larva",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected.\n",
+    "faction": "Zerg",
+    "unit": "Larva",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Larva",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 1.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 2.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit 1.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit 2.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/9/9e/Burrow_SC1_Able1.png/revision/latest/scale-to-width-down/20?cb=20100605185217\" \t alt=\"Burrow SC1 Able1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Burrow_SC1_Able1.png\" \tdata-image-name=\"Burrow SC1 Able1.png\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Burrow.\n",
+    "faction": "Zerg",
+    "unit": "Lurker",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Mutalisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Overlord",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 1.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 2.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death 3.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/7/7a/Ensnare_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606002024\" \t alt=\"Ensnare Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Ensnare_Icon_SC1.PNG\" \tdata-image-name=\"Ensnare Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Ensnare.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/a/a6/Parasite_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606002026\" \t alt=\"Parasite Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Parasite_Icon_SC1.PNG\" \tdata-image-name=\"Parasite Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Parasite 1.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   <img src=\"https://vignette.wikia.nocookie.net/starcraft/images/a/a6/Parasite_Icon_SC1.PNG/revision/latest/scale-to-width-down/20?cb=20100606002026\" \t alt=\"Parasite Icon SC1\"  \tclass=\"thumbborder \" \t \tdata-image-key=\"Parasite_Icon_SC1.PNG\" \tdata-image-name=\"Parasite Icon SC1.PNG\" \t \t width=\"20\"  \t height=\"20\"  \t \t \t \t> Parasite 2.\n",
+    "faction": "Zerg",
+    "unit": "Queen",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit.\n",
+    "faction": "Zerg",
+    "unit": "Scourge",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 1.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 2.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Attack 3.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit 1.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Hit 2.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Roar.\n",
+    "faction": "Zerg",
+    "unit": "Ultralisk",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Trained.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Selected 4.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 1.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 2.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 3.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Confirm 4.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Confirming order\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 1.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 2.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Repeatedly selected 3.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
+  },
+  {
+    "value": "   Death.\n",
+    "faction": "Zerg",
+    "unit": "Zergling",
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
+  }
+]
